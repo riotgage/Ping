@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "472050223756",
+    "firebase_url": "https://haay-2f502.firebaseio.com",
+    "project_id": "haay-2f502",
+    "storage_bucket": "haay-2f502.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472050223756:android:4dd5885b271d16578009a9",
+        "android_client_info": {
+          "package_name": "com.example.haay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472050223756-0tlejenj37achnlq3os2t4edqs54f164.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5b3nX1K0eks71LEaO8qQpkOTQ-Pi8hJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472050223756-0tlejenj37achnlq3os2t4edqs54f164.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
