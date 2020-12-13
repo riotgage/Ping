@@ -67,7 +67,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="40dp"
-            android:text="New to Hayy? Register here"
+            android:text="New to Ping ? Register here"
             android:gravity="center"
             android:textSize="13dp"
             android:textColor="#3F51B5"/>
